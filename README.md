@@ -24,7 +24,7 @@ This project implements full e-commerce backend functionality including:
 
 ## Local Setup Instructions
 ```bash
-git clone <repo-url>
+git clone https://github.com/dawoodulislam/btf_ecommerce_order_management
 cd project
 composer install
 cp .env.example .env
