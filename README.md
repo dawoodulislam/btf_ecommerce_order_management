@@ -99,6 +99,15 @@ GET `/api/v1/orders/{id}/invoice`
 php artisan test
 ```
 
+## Technical Notes / Future Improvements
+
+Due to time limitations, the following enhancements were not fully implemented across the entire codebase but are planned as next steps:
+ - PSR-12 Coding Style Compliance
+ - Consistent try/catch Error Handling
+ - Centralized Logging Strategy 
+ - Exception Handling Extensions
+ - Feature Test and Unit test  
+
 ## Developer Info
 **Name:** Dawoodul Islam
 **Email:** dislam151350@bscse.uiu.ac.bd
